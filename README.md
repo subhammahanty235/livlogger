@@ -4,7 +4,7 @@ liv-logger is a versatile logging middleware for Express.js that supports loggin
 
 ## Installation
 
-Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install foobar.
+Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install livlogger.
 
 ```bash
 npm install livlogger
