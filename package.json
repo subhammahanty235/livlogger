@@ -1,6 +1,6 @@
 {
   "name": "livlogger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "livlogger is a api log recorder with capability to store data into json, postgres or noSQL like mongoDB database",
   "main": "index.js",
   "scripts": {
